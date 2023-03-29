@@ -2,6 +2,8 @@
 # Team Blog App
 
 App intended to be used on smartphone.
+
+&nbsp;
 ![Project preview](./src/preview/preview.jpg)
 
 
